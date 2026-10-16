@@ -1,4 +1,4 @@
-# talent-acquisition-credentials
+
 # Professional Credentials & Certifications
 
 This repository serves as a verified archive of my professional certifications, continuous education courses, and skill-building achievements. 
@@ -13,11 +13,6 @@ This repository serves as a verified archive of my professional certifications, 
 
 ---
 
-## 🔍 Verification & Credentials
-
-| Credential Name | Provider | Link to Certificate |
-| :--- | :--- | :--- |
-| HR & Talent Acquisition Specialisation | Reliance Foundation / Skill India | [View PDF](./pdf_aVru5N.pdf) |
 
 ## 🛠️ Key Skills Acquired
 * Human Resource Management
